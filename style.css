@@ -18,7 +18,7 @@ body {
     text-shadow: 0 0 10px white;
 border: 5px solid white;
 border-radius: 50px;
-transition: all .05s;
+transition: all 1s;
 }
 .key_run {
     transform: scale(1.2);
