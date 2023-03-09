@@ -1,5 +1,5 @@
 body {
-    background-color: darkblue;
+    background-color: rgb(49, 49, 71);
 
 }
 .keys {
@@ -17,7 +17,7 @@ body {
     padding: 20px;
     text-shadow: 0 0 10px white;
 border: 5px solid white;
-border-radius: 40px;
+border-radius: 50px;
 transition: all .05s;
 }
 .key_run {
