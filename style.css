@@ -17,6 +17,7 @@ body {
     padding: 20px;
     text-shadow: 0 0 10px white;
 border: 5px solid white;
+border-radius: 40px;
 transition: all .05s;
 }
 .key_run {
